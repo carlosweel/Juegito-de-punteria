@@ -1,4 +1,4 @@
-document.getElementById('player').addEventListener("mouseover", sumarPuntos)
+document.getElementById('player').addEventListener("click", sumarPuntos)
 puntos = 0;
 tiempo = 60;
 necesarios = 100;
